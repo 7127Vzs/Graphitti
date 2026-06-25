@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "project": "Graphitti",
+    "extracted_at": "2026-06-25 11:54:55",
+    "source_domain": "react.dev"
+  },
+  "triples": [
+    {
+      "subject": "React 19",
+      "predicate": "DEPRECATES",
+      "object": "defaultProps",
+      "source_url": "https://react.dev/blog/2024/04/25/react-19",
+      "is_contested": false
+    },
+    {
+      "subject": "Server Components",
+      "predicate": "RENDER_ON",
+      "object": "Server Environment",
+      "source_url": "https://react.dev/reference/rsc/server-components",
+      "is_contested": false
+    }
+  ]
+}
